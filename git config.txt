@@ -1,0 +1,10 @@
+
+
+ git config --global user.email kvgnaneswar@gmail.com
+
+
+
+  git config --global user.name gnaneshkoti
+
+
+
